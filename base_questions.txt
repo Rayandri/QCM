@@ -1,0 +1,23 @@
+Qui est le chef du nouveau gouvernement en France en 1936 ? /Thorez /Blum /Daladier /Pétain [B];
+Quel est le slogan du Front populaire ? /«Avec la France, pour les Français» /«liberté, égalité, fraternité» /«travail, famille, patrie» /«le pain, la paix, la liberté» [D];
+Quel parti ne compose pas le Front populaire ? /Le Parti Radical /La SFIO /Le Bloc national /Le Parti Communiste [C];
+Quel Evènement de 1934 contribua à la création du Front populaire ? /Le congrés de Tours /Les émeutes des ligues /Le Krach de Wall-Street /La démission de Clémenceau [B];
+Quel Evènement est à  l'origine de la crise des années 30 ? /La révolution Russe /La montée du fascisme /La première guerre mondiale /Le Krach de Wall-Street [D]
+Lequel de ces pays est une île ? /France /Pays-Bas /Australie /Corée [C];
+Quelle est la couleur du cheval blanc d'Henri 4 /Vert /Rouge /Gris /Blanc [D];
+Un octet correspond à  /1 bit /4 bits /8 bits /32 bits [C];
+Avec 1 octet on peut coder /255 valeurs /8 valeurs /16 valeurs /256 valeurs [D];
+Qu'est ce que Microsoft Windows ? /Un type d'ordinateur /Un système d'exploitation /Un système de gestion de bases de données / un truc qui demare au debut de l'ordi  [B];
+Le système binaire utilise la base /2 /10 /8 /Aucune de ces réponses n'est vraie. [A];
+Dans la mythologie Grèco-romaine, les dieux se réunissaient sur /Le mont Sinaï /Le Vésuve /Le mont Olympe /le mont olymbe [C];
+Dans la mythologie grecque, Pégase est /Un cheval ailé /Une homme avec un tête d'aigle /Un géant /Un ane [A];
+En quelle année François Mitterrand t-il été élu président de la République française ? /1974 /1976 /1981 /1986 [C];
+Dans quel manga le héros utilise le célèbre “Kaméhaméha” ? /One Piece /Fairy Tail /Dragon Ball Z /Naruto [C];
+Comment appelle t-on un auteur de manga ? /un mangaka /un manganpi /un mangano / un dessinateur [A];
+Complétez cette suite “logique” : Windows 7, Windows 8, Windows ? /Windows 9 /Windows 10 /Windows XP /Windows 64 [B];
+Qu’est ce que le Raspberry Pi ? / un micro-ordinateur / un hoverboard / une patisserie /Un nouveau type de connexion (type Bluetooth) [A]
+Qu’est-ce qu’une barrette RAM dans un ordinateur ? / Ce qui permet l'affichage du PC / Ce qui permet le stockage du PC /Ce qui permet la fluidité du PC / Ce qui permet la vitesse de calcul [C]
+Ctrl + Z ? / Hein ? / Copier Coller / Retour arrière / Répéter [C];
+Qui chante "Des bicraveurs jugés comme pour un crime et des pédophiles jugés comme pour un délit" ? /Mosart /Niska /Nekfeu /PLK [C];
+L'antiquité, Le moyen-age, Les temps Modernes, ... ? /Les temps actuelles /l'époque contemporaine /Aujourd'hui /Les temps conporain [B];
+Un synonyme de Dimitri ? /Intelligent /Stupide /Beau /Incroyable [B];
